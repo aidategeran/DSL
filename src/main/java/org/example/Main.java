@@ -47,6 +47,12 @@ public class Main {
                 return operand1 / operand2;
             case "MOD":
                 return operand1 % operand2;
+
+
+
+
+
+
             case "POW":
                 return (int) Math.pow(operand1, operand2);
             default:
